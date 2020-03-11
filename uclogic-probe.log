@@ -1,0 +1,17 @@
+    |                Product: PenTablet 
+ 64 |        Params block #1: ??????
+    |                          Max X: 40000
+    |                          Max Y: 25000
+    |                   Max pressure: 2047
+    |                     Resolution: 4000
+    |
+ 79 |         Internal model: HA60-F400
+ 7b |         Buttons status: HK On
+ c8 |        Params block #2: ??a????
+    |                          Max X: 40000
+    |                          Max Y: 25000
+    |                   Max pressure: 2047
+    |                     Resolution: 4000
+    |
+ c9 |       Firmware version: HUION_T151_160328
+ ca |  Internal manufacturer: HUION Animation Technology Co.,ltd
