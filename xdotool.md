@@ -1,4 +1,6 @@
-Xdotool - Keyboard
+source: https://www.linux.org/threads/xdotool-keyboard.10528/  
+
+# Xdotool - Keyboard
 
 The xdotool is a utility used from the terminal or in a script to manually perform keyboard input. The commands can also be used to make a script of many xdotool commands to perform large tasks. Later articles will cover the xdotool ability to perform mouse input as well as window and desktop manipulation.
 
