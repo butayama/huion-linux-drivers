@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 
-import usb.core, usb.util
-import sys
+import math
 import os.path
 import platform
-from evdev import UInput, ecodes, AbsInfo, InputDevice, list_devices
 import subprocess as sp
-import math
-import numexpr
+import sys
 from configparser import ConfigParser, ExtendedInterpolation
 from time import gmtime, strftime, sleep
+import numexpr
+import usb.core
+import usb.util
+from evdev import UInput, ecodes, AbsInfo, InputDevice, list_devices
 
 MENU = {}
 
