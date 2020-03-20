@@ -34,7 +34,7 @@ TABLET CAPABILITIES:
 [(('ABS_X', 0), AbsInfo(value=0, min=0, max=50800, fuzz=0, flat=0, resolution=0)), (('ABS_Y', 1), AbsInfo(value=0, min=0, max=31750, fuzz=0, flat=0, resolution=0)), (('ABS_PRESSURE', 24), AbsInfo(value=0, min=0, max=8191, fuzz=0, flat=0, resolution=0)), (('ABS_TILT_X', 26), AbsInfo(value=0, min=0, max=255, fuzz=0, flat=0, resolution=0)), (('ABS_TILT_Y', 27), AbsInfo(value=0, min=0, max=255, fuzz=0, flat=0, resolution=0))]
 
 VPEN:
-name "Tablet Monitor Pen 123716", bus "BUS_USB", vendor "0001", product "0001", version "0003", phys "py-evdev-uinput"
+name "Tablet Monitor Pen 131639", bus "BUS_USB", vendor "0001", product "0001", version "0003", phys "py-evdev-uinput"
 event types: EV_SYN EV_KEY EV_ABS
 
 XINPUT:

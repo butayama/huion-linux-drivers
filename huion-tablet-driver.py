@@ -213,11 +213,11 @@ def setup_driver():
         print(main.vpen)
 
         print("\nXINPUT:")
-        cmd='xinput list --short | grep "Tablet Monitor Pen"'
-        try:
-            sp.run(cmd, shell=True, check=True)
-        except sp.CalledProcessError as e:
-            run_error(e, cmd)
+        # cmd='xinput list --short | grep "Tablet Monitor Pen"'
+        # try:
+        #     sp.run(cmd, shell=True, check=True)
+        # except sp.CalledProcessError as e:
+        #     run_error(e, cmd)
 
 
 # -----------------------------------------------------------------------------
